@@ -70,4 +70,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE). 
+
+#Steps
+> Install nest cli => npm i  -g @nestjs/cli
+> Generate a new NestJS project => nest new <app-name>
+> Run the app => npm run start:dev
+> Create a Posts Resource > nest g resource <resource-name>
