@@ -77,3 +77,5 @@ Nest is [MIT licensed](LICENSE).
 > Generate a new NestJS project => nest new <app-name>
 > Run the app => npm run start:dev
 > Create a Posts Resource > nest g resource <resource-name>
+> Use Thunder Client Extension on VS Code to test REST APIS
+> npm install @nestjs/typeorm typeorm sqlite3
